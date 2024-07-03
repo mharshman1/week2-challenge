@@ -1,0 +1,110 @@
+h1  {
+  color: rgb(57, 57, 61);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  border-style: solid;
+  display: inline-block;
+  padding-left: 10px;
+  padding-right:80px;
+  padding-top: 5px;
+  padding-bottom:5px;
+  line-height: 80%;
+  background-color: rgb(149, 210, 221);
+  margin-left: 30px;
+  
+
+}
+.grey-bar {
+  border-style: solid;
+  display: inline-block;
+  padding-left: 0px;
+  background-color: rgb(57, 57, 61);
+  height: 119px;
+  width: 151000px;
+
+}
+
+.box-example-1 {
+  color:rgb(70, 70, 100)
+  border-style: solid;
+  display: inline-block;
+  border-width: 60px;
+  border-color: red;
+  background: blue;
+  height:270px;
+
+}
+
+.box-example-2 {
+  color:rgb(70, 70, 100);
+  border-style: solid;
+  display: inline-block;
+  border-width: 3px;
+  height: 300px;
+  background-color: rgb(212, 220, 224);
+  vertical-align: top;
+  width: 1203px;
+
+
+}
+
+.Menu-Text {
+color: rgb(149, 210, 221);
+font-size: 30px;
+display: inline-block;
+padding-right: 5px;
+padding-left: 15px;
+text-align: right;
+margin-right: 20px;
+}
+
+.Menu-Text1 {
+  color: rgb(149, 210, 221);
+  font-size: 30px;
+  display: inline-block;
+  padding-right: 5px;
+  padding-left: 345px;
+  text-align: right;
+  margin-right: 20px;
+
+
+}
+.About-Me-Text {
+  color: rgb(70, 70, 100);
+  font-size: 20px;
+  display: inline-block;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 30px;
+  margin-left: 30px;
+  width: 1180px;
+
+}
+.Contact-Me-Text {
+  color:rgb(149, 210, 221);
+  font-size: 30px;
+  display: inline-block
+}
+.Resume-Text {
+  color:rgb(149, 210, 221);
+  font-size: 30px;
+  display: inline-block
+}
+
+.blue-line-background {
+  display: block;
+  height: 190px;
+  width: 1524px;
+  
+}
+
+h2  {
+  color: rgb(105, 150, 187);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  display: inline-block;
+  line-height: 60px
+  width: 30px;
+  margin: 57px;
+
+  }
+  
