@@ -1,4 +1,4 @@
-# < The Horiseon Website >
+# < Martin Harshman portfolio website >
 
 ## Description
 
